@@ -2,7 +2,7 @@
 
 
 
-📞 # 𝗖𝗮𝗹𝗹 𝗖𝗲𝗻𝘁𝗿𝗲 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱
+📞 𝗖𝗮𝗹𝗹 𝗖𝗲𝗻𝘁𝗿𝗲 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱
 
 This project provides a visual overview of a call centre's operational performance, customer engagement, and satisfaction metrics using an interactive dashboard.
 
